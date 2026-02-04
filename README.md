@@ -7,7 +7,7 @@ A modern, responsive, and interactive counter application built with **HTML**, *
 This project demonstrates clean UI design, DOM manipulation, and dynamic state handling — making it ideal for frontend portfolios and freelance opportunities.
 
 ## 🚀 Live Demo
-👉 
+👉 https://rodrianaa.github.io/Counter/
 
 ---
 
